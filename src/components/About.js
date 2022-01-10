@@ -36,7 +36,7 @@ export default function About() {
             </p>
           </div>
 
-          <a href="#" className="button--link button--flex">
+          <a className="button--link button--flex">
             Shop Now <i className="ri-arrow-right-down-line button__icon"></i>
           </a>
         </div>

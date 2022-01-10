@@ -31,7 +31,7 @@ function App() {
         <Contact />
       </main>
       <Footer />
-      <a href="#" className="scrollup" id="scroll-up">
+      <a className="scrollup" id="scroll-up">
         <i className="ri-arrow-up-fill scrollup__icon"></i>
       </a>
     </>

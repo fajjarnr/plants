@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer section">
       <div className="footer__container container grid">
         <div className="footer__content">
-          <a href="#" className="footer__logo">
+          <a className="footer__logo">
             <i className="ri-leaf-line footer__logo-icon"></i> Plantex
           </a>
 
