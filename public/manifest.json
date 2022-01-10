@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Plantex",
+  "name": "Create incredible plant design for your offices or apastaments.",
   "icons": [
     {
       "src": "favicon.ico",
